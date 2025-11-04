@@ -8,7 +8,7 @@ This repository contains multiple mini OpenCV projects like:
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installatio
 
 ```bash
 pip install opencv-python
