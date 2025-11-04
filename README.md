@@ -5,3 +5,8 @@ auther - Nileshkrishesh Gupta
 pip install opencv-python
 python filename.py
 
+## 📌 Output of OpenCV Project
+
+Here is one of the output images from my project:
+
+![OpenCV Output](output_opencv.png)
