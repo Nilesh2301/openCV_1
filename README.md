@@ -1,9 +1,19 @@
-# openCV_1
-this is my openCV project as  well as my first github project which will do that it will change colorfull photo into black and white.
-<br>
-auther - Nileshkrishesh Gupta
+# 🎯 OpenCV Beginner Projects
+
+This repository contains multiple mini OpenCV projects like:
+✔ Image to Black & White  
+✔ Face, Eye, and Smile Detection  
+✔ Shape Detection  
+✔ Blurring, Cropping, Text adding etc.
+
+---
+
+## ⚙️ Installation
+
+```bash
 pip install opencv-python
-python filename.py
+pip install mediapipe          # If used
+
 
 ## 📌 Output of OpenCV Project
 
