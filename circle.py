@@ -1,7 +1,7 @@
 import cv2
 image=cv2.imread(r"c:\Users\Nilesh gupta\Downloads\download (1).jpeg")
 if image is None:
-    print("opps! your image  not working")
+    print("opps! change by art your image  not working")
 else:
     print("image loaded successfully!")
     h,w,c=image.shape
@@ -12,3 +12,4 @@ else:
     cv2.waitKey(0)
 
     cv2.destroyAllWindows
+
