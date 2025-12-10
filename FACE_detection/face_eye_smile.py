@@ -13,6 +13,7 @@ while True:
     if not ret:
         print("Camera not detected.")
         break
+    frame = cv2.flip(frame, 1)
 
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
